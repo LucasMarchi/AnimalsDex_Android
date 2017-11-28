@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Animais Dex</string>
+    <string name="action_settings">Configurações</string>
+    <string name="image_details_header">Detalhes:</string>
+    <string name="image_preview_header">Preview:</string>
+    <string name="loading_message">Fazendo upload da umagem. Aguarde um momento...</string>
+
+    <string name="dialog_select_prompt">Escolha uma imagem</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="dialog_select_gallery">Galeria</string>
+
+    <string name="image_picker_error">Algo errado com essa imagem.</string>
+
+    <string name="name">Nome</string>
+    <string name="description">Descrição</string>
+    <string name="save_button">Cadastrar</string>
+    <string name="list_button">Listar</string>
+    <string name="search_button">Pesquisar</string>
+</resources>
